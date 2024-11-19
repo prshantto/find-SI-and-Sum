@@ -1,1 +1,1 @@
-# This is express aplication to calculatre Simple interest and Sum.
+# This is Node aplication to calculatre Simple interest and Sum.
